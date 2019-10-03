@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaexoopha.lisaschwetlick.de/sitemap.xml
